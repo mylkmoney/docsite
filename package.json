@@ -1,5 +1,5 @@
 {
-  "name": "Documentation Website for Mylk",
+  "name": "@mylk/docsite",
   "version": "0.0.0",
   "private": true,
   "scripts": {
